@@ -9,6 +9,7 @@ The project was designed with an emphasis on object-oriented programming princip
 Objectives:
 
 The primary objectives of this project were to:
+
 -Develop a maintainable and scalable hospital management application.
 -Apply object oriented programming concepts in a real world scenario.
 -Improve data organisation and record management.
@@ -18,6 +19,7 @@ The primary objectives of this project were to:
 Features:
 
 -Patient registration and record management
+
 -Appointment scheduling and tracking
 -Doctor assignment and management
 -Administrative record organisation
