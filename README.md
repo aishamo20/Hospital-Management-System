@@ -4,8 +4,6 @@ Overview:
 
 This project was developed as part of my Object-Oriented Programming studies to explore how software can be used to improve the organisation and management of healthcare services. The system provides a structured approach to handling patient information, appointment scheduling, doctor assignments, and administrative records within a hospital environment.
 
-The project was designed with an emphasis on object-oriented programming principles, including encapsulation, inheritance, and modular design. By modelling real-world hospital operations in software, the system demonstrates how programming concepts can be applied to solve practical administrative challenges.
-
 Objectives:
 
 The primary objectives of this project were to:
